@@ -16357,8 +16357,8 @@
                 case "Alien":
                     this.icon = "https://cdn.upload.systems/uploads/207u9V2j.png";
                     break;
-                case "Halloween":
-                    this.icon = "https://cdn.upload.systems/uploads/bmnYN3iC.png"
+                case "KAK_TAK_TO":
+                    this.icon = "https://avatars.mds.yandex.net/i?id=87cbde944732d3d45641945efd6aa4f9411a46b7-10514707-images-thumbs&n=13";
                     break;
                 case "SDCChampion":
                     this.icon = "https://cdn.upload.systems/uploads/G8cBuNFC.png"
@@ -16426,9 +16426,6 @@
                     break;
                 case "srcchamp":
                     this.icon = "https://starblast.io/ecp/srcchamp.png";
-                    break;
-                case "KAK_TAK_TO":
-                    this.icon = "https://avatars.mds.yandex.net/i?id=87cbde944732d3d45641945efd6aa4f9411a46b7-10514707-images-thumbs&n=13";
                     break;
 			}
 			if (d = Math.round(i / 2.2), null != this.icon && this.icon.startsWith("http")) {
