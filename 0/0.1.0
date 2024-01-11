@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>FD шакал</title>
+    <title>FD(шакал)</title>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui=1">
     <meta charset="UTF-8">
@@ -22,7 +22,7 @@
     <meta name="twitter:title" content="Starblast.io, free online shoot'em up">
     <meta name="twitter:description" content="Multiplayer Arcade Space Shooter io Game! Shoot asteroids and enemies to collect crystals. Upgrade your ship before you get killed!">
     <meta name="twitter:image" content="https://starblast.io/static/img/starblast.png?2">
-    <link rel="icon" type="https://cdn.discordapp.com/attachments/1182455933616521327/1190667917008846948/IMG_20231217_212800.png?ex=65a2a2e8&is=65902de8&hm=ce8c2471438c9d5a39000d837e1f093ded48ec677ba1d10590158e07b85c8ad0&" />
+    <link rel="icon" type="https://cdn.discordapp.com/attachments/1184083069074944002/1195098133252808874/IMG_20231217_212800_2_1.png?ex=65b2c0de&is=65a04bde&hm=5a0a7dd15d75666b04d893d5b0107144c851209e5a3687a269cf4fc9bdf84403&" />
     <link rel="image_src" href="https://starblast.io/static/img/starblast.png?2">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <style>:root{--box-shadow:hsla(60, 100%, 80%, 1)}@font-face{font-family:'SBGlyphs';src:url('https://starblast.data.neuronality.com/fonts/starblast-glyphs.ttf?v=1');font-weight:normal;font-style:normal}.sbg{display:inline-block;font:normal normal normal 14px/1 SBGlyphs;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.sbg-fw{width:1.28571429em;text-align:center}.sbg-wiki:before{content:"\0021"}.sbg-lock:before{content:"\0022"}.sbg-tick:before{content:"\0023"}.sbg-heart:before{content:"\0024"}
@@ -16027,7 +16027,7 @@
 			}(this))()
 		}, e.prototype.l0Il1 = function(t) {
 			var e, i;
-			return null == t && (t = 1.25), e = document.createElement("canvas"), i = new Image, i.src = "https://cdn.discordapp.com/attachments/1182455933616521327/1190667917008846948/IMG_20231217_212800.png?ex=65a2a2e8&is=65902de8&hm=ce8c2471438c9d5a39000d837e1f093ded48ec677ba1d10590158e07b85c8ad0&", i.crossOrigin = "Anonymous", i.ondragstart = function(t) {
+			return null == t && (t = 1.25), e = document.createElement("canvas"), i = new Image, i.src = "https://cdn.discordapp.com/attachments/1184083069074944002/1195098133252808874/IMG_20231217_212800_2_1.png?ex=65b2c0de&is=65a04bde&hm=5a0a7dd15d75666b04d893d5b0107144c851209e5a3687a269cf4fc9bdf84403&", i.crossOrigin = "Anonymous", i.ondragstart = function(t) {
 				return t.preventDefault()
 			}, i.addEventListener("dragstart", function(t) {
 				return t.preventDefault()
