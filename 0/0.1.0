@@ -245,12 +245,12 @@
             <div class="textcentered community changelog-new" data-translate-base="music" lang="en">
               <a href="https://starblast.dankdmitron.dev/" target="_blank"><svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414"><path d="m 5 9 l 0 2 l 3 1 l 1 0 l 3 -1 l 0 -2 l -1 0 l -2 -3 l -1 0 l -2 3" fill-rule="nonzero"/></svg><br>sl+</a>
               <a href="https://starblast.io/modding.html" target="_blank"><svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414"><path d="m 5 9 l 0 2 l 3 1 l 1 0 l 3 -1 l 0 -2 l -1 0 l -2 -3 l -1 0 l -2 3"/></svg><br>Modding</a>
-              <a href="https://discord.gg/AKZvWXuY" target="_blank"><i class="sbg sbg-discord"></i><br>FD Clan</a>
+              <a href="" target="_blank"><i class="sbg sbg-discord"></i><br>FD Clan</a>
             </div>
             <div class="textcentered community changelog-new" data-translate-base="music" lang="fr">
               <a href="https://starblast.dankdmitron.dev/" target="_blank"><svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="3"><path d="m 5 9 l 0 2 l 3 1 l 1 0 l 3 -1 l 0 -2 l -1 0 l -2 -3 l -1 0 l -2 3" fill-rule="nonzero"/></svg><br>sl+</a>
               <a href="https://starblast.io/modding.html" target="_blank"><svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414"><path d="m 5 9 l 0 2 l 3 1 l 1 0 l 3 -1 l 0 -2 l -1 0 l -2 -3 l -1 0 l -2 3"/></svg><br>Modding</a>
-              <a href="https://discord.gg/AKZvWXuY" target="_blank"><i class="sbg sbg-discord"></i><br>FD Clan</a>
+              <a href="" target="_blank"><i class="sbg sbg-discord"></i><br>FD Clan</a>
             </div>
         </div>
         <div class="social">
@@ -16357,7 +16357,7 @@
                 case "Alien":
                     this.icon = "https://cdn.upload.systems/uploads/207u9V2j.png";
                     break;
-                case "KAK_TAK_TO":
+                case "?":
                     this.icon = "https://avatars.mds.yandex.net/i?id=87cbde944732d3d45641945efd6aa4f9411a46b7-10514707-images-thumbs&n=13";
                     break;
                 case "SDCChampion":
@@ -16619,7 +16619,7 @@
                 Spider: "Spider",
                 TorpWitch: "TorpWitch",
                 USniper: "USniper",
-                KAK_TAK_TO: "KAK_TAK_TO",
+                ?: "?",
                 Web: "Web",
                 SDCChampion: "SDC Champion",
                 SRCChampion: "SRC Champion",
