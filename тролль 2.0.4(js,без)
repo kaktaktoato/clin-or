@@ -7,8 +7,8 @@
 // @match        https://starblast.io/
 // @run-at       document-start
 // @grant        GM_xmlhttpRequest
-// @updateURL    
-// @downloadURL  
+// @updateURL    https://raw.githubusercontent.com/kaktaktoato/clin-or/main/%D1%82%D1%80%D0%BE%D0%BB%D0%BB%D1%8C%202.0.4(js%2C%D0%B1%D0%B5%D0%B7)
+// @downloadURL  https://raw.githubusercontent.com/kaktaktoato/clin-or/main/%D1%82%D1%80%D0%BE%D0%BB%D0%BB%D1%8C%202.0.4(js%2C%D0%B1%D0%B5%D0%B7)
 // ==/UserScript==
 const CURRENT_RUNNING_VERSION = "2.0.4";
 const log = (msg) => console.log(`%c[Troll Client] ${msg}`, "color: #ffff00");
@@ -1474,14 +1474,14 @@ setTimeout(injectLoader, 1);
 
     GM.xmlHttpRequest({
         method: "GET",
-        url: "",
+        url: "https://raw.githubusercontent.com/kaktaktoato/clin-or/main/%D1%82%D1%80%D0%BE%D0%BB%D0%BB%D1%8C%202.0.4(js%2C%D0%B1%D0%B5%D0%B7)",
         responseType: "text",
         onload: function(response) {
             const remoteScriptText = response.responseText;
             const remoteMatch = remoteScriptText.match(/@version\s+(\S+)/i);
             if (remoteMatch && remoteMatch[1] && remoteMatch[1] !== CURRENT_RUNNING_VERSION) {
                 updatelog(`New version available: ${remoteMatch[1]}`);
-                window.location.href = "";
+                window.location.href = "https://raw.githubusercontent.com/kaktaktoato/clin-or/main/%D1%82%D1%80%D0%BE%D0%BB%D0%BB%D1%8C%202.0.4(js%2C%D0%B1%D0%B5%D0%B7)";
             } else {
                 updtaelog('Script is up to date');
             }
