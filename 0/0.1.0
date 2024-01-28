@@ -13601,11 +13601,11 @@
 				text: "Hmm",
 				icon: "K",
 				key: "Q"
-			}, {text:"Nigger",icon:"®",key:"I"},
-			{text:"EOT=Trash",icon:"🤡",key:"J"},
+			}, {text:"пидарас",icon:"👬",key:"I"},
+			{text:"читер",icon:"🛠️",key:"J"},
 			{text:"Me",icon:"?",key:"E"},
 			{text:"You",icon:">",key:"D"},
-			{text:"IM a Loser",icon:" ",key:"V"}], this.tips_test = "Destroy asteroids", this.tips = [t("Destroy asteroids"), t("Collect gems to upgrade your ship"), t("Fight and don't die!")]
+			{text:"еотавская хуйня",icon:" ",key:"V"}], this.tips_test = "Destroy asteroids", this.tips = [t("Destroy asteroids"), t("Collect gems to upgrade your ship"), t("Fight and don't die!")]
 		}
 		return extend(i, e), i.prototype.OO01I = function(t) {
 			return this.game_info = t, null != this.options.choose_ship ? (this.OOlOI.startGame(t), this.OOlOI.display.screen.Il110.hide(), this.OOlOI.ll1O0.IOl1O.O1II0.x = 0, this.OOlOI.ll1O0.IOl1O.O1II0.y = -40, this.next_round_page = new ChooseShipPage(this.OOlOI, this), this.next_round_page.visible = !1, this.OOlOI.display.screen.Il110.add(this.next_round_page, [0, 0, 1, 1]), this.OOlOI.l0011.enter(), this.next_round_page.start(this.options.choose_ship)) : (this.OOlOI.l0011.enter(), this.OOlOI.l0011.respawn(function(e) {
@@ -13732,8 +13732,8 @@
 				text: "Sorry",
 				icon: "¡",
 				key: "S"
-            }, {text:"Nigger",icon:"®",key:"I"},
-			{text:"EOT=Trash",icon:"🤡",key:"J"},
+            }, {text:"пидарас",icon:"👬",key:"I"},
+			{text:"читер",icon:"🛠️",key:"J"},
 			{text:"contribute",icon:"°",key:"L"},
 			{text:"Hello",icon:":",key:"W"},
 			{ text: "Bye", icon: "F", key: "H" }], this.teams = [], this.teamboards = [], this.max_enter_time = 2700, this.max_enter_players = 60, this.infinite_base_lives = !1, this.tips_test = "Win the game by destroying the enemy bases", this.tips = [t("Collect gems to upgrade your ship"), t("Donate gems to your base to upgrade it and access higher tier ships"), t("Win the game by destroying the enemy bases")]
@@ -13978,8 +13978,8 @@
 				text: "Hmm",
 				icon: "K",
 				key: "Q"
-			}, {text:"Nigger",icon:"®",key:"T"},
-			{text:"EOT=Trash",icon:"🤡",key:"J"},
+			}, {text:"пидарас",icon:"👬",key:"T"},
+			{text:"читер",icon:"🛠️",key:"J"},
 			{text:"Alien",icon:"0",key:"W"},
 			{text:"Boss",icon:"¿",key:"V"}], this.tips_test = "Fight and don't die!", this.tips = [t("Fight and don't die!"), t("Collect gems to upgrade your ship")], this.future_tips = [t("Destroy aliens and l0llI"), t("Collect gems and weapons"), t("Fight the bosses and don't die!")], this.show_highscore = !1, this.infinite_base_lives = !1, this.radar_zoom=1, this.respawn_delay=1e3,this.soundtrack = "crystals.mp3", this.ecponly = !1, this.custom_game_allowed = !0, this.gameover = !1, this.count_alien_kills = !0
 		}
