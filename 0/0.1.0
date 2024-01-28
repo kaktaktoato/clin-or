@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>FD?</title>
+    <title>̶F̶D̶</title>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui=1">
     <meta charset="UTF-8">
@@ -25,7 +25,7 @@
     <link rel="icon" type="image/png" href="https://starblast.io/static/img/icon64.png" />
     <link rel="image_src" href="https://starblast.io/static/img/starblast.png?2">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <style>@font-face {
+    <style>        @font-face {
             font-family: 'SBGlyphs';
             src: url('https://starblast.data.neuronality.com/fonts/starblast-glyphs.ttf?v=1');
             font-weight: normal;
@@ -2588,7 +2588,7 @@
             <div class="textcentered community changelog-new" data-translate-base="thing" lang="en">
                 <marquee scrollamount="2" height="20" width="100%" direction="right">
 
-                Tima (Neebula) Cheat
+                F̶D̶  Tima(Neebula) Client F̶D̶
 
                 </marquee>
               </div>
@@ -2609,29 +2609,33 @@
               </a>
             </div>
             <div class="textcentered community changelog-new" data-translate-base="thing" lang="en">
-            </div>
+
               <a href="https://starblast.io/modding.html" target="_blank"><i class="sbg sbg-shop"></i><br>Modding</a>
               <a href="https://starblast.io/shipeditor/" target="_blank"><i class="sbg sbg-fly"></i><br>Editor</a>
               <a href="https://starblast.dankdmitron.dev/" target="_blank"><i class="sbg sbg-fly"></i><br>SL+</a>
               <a href="" target="_blank"><i class="sbg sbg-fly"></i><br>Discord FD</a>
+            </div>
+
             <div class="textcentered community changelog-new" data-translate-base="thing" lang="en">
                 <marquee scrollamount="2" height="20" width="100%" direction="right" >
 
-                Tima (Neebula) Cheat
+                ̶F̶D̶  Tima(Neebula) Client F̶D̶
 
                 </marquee>
               </div>
             <div class="textcentered community changelog-new" data-translate-base="community" lang="fr">
+              <a href="https://starblast.io/modding.html" target="_blank"><i class="sbg sbg-shop"></i><br>Modding</a>
+              <a href="https://starblast.io/shipeditor/" target="_blank"><i class="sbg sbg-fly"></i><br>Editor</a>
+              <a href="https://starblast.dankdmitron.dev/" target="_blank"><i class="sbg sbg-fly"></i><br>SL+</a>
+              <a href="" target="_blank"><i class="sbg sbg-fly"></i><br>Discord FD</a>
             </div>
         </div>
         <div class="social">
-            <div id="cgbottom" class="adsbyvli" data-ad-slot="vi_462315138"></div><br>
+            <div id="cgbottom"></div><br>
             <i class="sbg sbg-info"></i>
             <i class="sbg sbg-gears"></i>
-            <!--
             <i class="sbg sbg-facebook"><span class="sbg sbg-diamond"></span></i>
             <i class="sbg sbg-twitter"><span class="sbg sbg-diamond"></span></i>
-            -->
         </div>
         <div class="followtools">
             <a id="moddingspace" href="#" class="big">
@@ -2641,10 +2645,10 @@
                 <i class="fa ecplogo"></i><br /><span data-translate="Elite Commander Pass">Elite Commander Pass</span>
             </a><br />
             <a id="rankings" href="#" class="big cup">
-                <i class="fa fa-fw fa-trophy"></i><br /> <span data-translate="LEADERBOARD">LEADERBOARD</span>
+                <i class="fa fa-fw fa-trophy"></i><br /> <span data-translate="Leaderboard">Leaderboard</span>
             </a><br />
             <a data-display-only="en,fr" id="training" href="#" class="big">
-                <i class="sbg sbg-fw sbg-fly-mid"></i><br /> <span data-translate="Entrainement">Entrainement</span>
+                <i class="sbg sbg-fw sbg-fly-mid"></i><br /> <span data-translate="Training">Training</span>
             </a>
         </div>
     </div>
@@ -18365,7 +18369,7 @@
 			}(this))()
 		}, e.prototype.l0Il1 = function(t) {
 			var e, i;
-			return null == t && (t = 1.25), e = document.createElement("canvas"), i = new Image, i.src = "https://raw.githubusercontent.com/immagangster2/justsomething/main/clientlolgo.png", i.crossOrigin = "Anonymous", i.ondragstart = function(t) {
+			return null == t && (t = 1.25), e = document.createElement("canvas"), i = new Image, i.src = "", i.crossOrigin = "Anonymous", i.ondragstart = function(t) {
 				return t.preventDefault()
 			}, i.addEventListener("dragstart", function(t) {
 				return t.preventDefault()
